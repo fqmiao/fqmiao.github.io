@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "fq miao"
-  avatar           : "profile.png"
-  bio              : "None"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : 
+  location         : "Dalian Liaoning China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  "fqmiao.yeah.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/fqmiao"
   google_plus      :
   keybase          :
   instagram        :
